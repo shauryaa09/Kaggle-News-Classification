@@ -1,4 +1,4 @@
-The notebook A4W4-unsup-learning-UCB.ipynb contains the code to use the tfidf text vectorizer on the BBC news classification data set, which is obtained from: http://kaggle.com/competitions/learn-ai-bbc/.
+The notebook A4W4-unsup-learning-UCB.pdf contains the pdf of the code. It uses the tfidf text vectorizer on the BBC news classification data set, which is obtained from: http://kaggle.com/competitions/learn-ai-bbc/.
 This notebook constructs tfidf vectors and then uses unsupervised learning, including non-negative matrix factorization, to get the results. It also compares the results from supervised learning methods.
 Then, finally, training data is split into various splits, and the supervised learning methods are compared.
 In the notebook nmf_mov_rating, it is shown how the movie ratings are predicted using NMF, and the RMSE is better than traditional methods. The RMSE using NMF ~0.96 and using traditional
