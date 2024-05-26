@@ -1,5 +1,4 @@
-The notebook A4W4-unsup-learning-UCB.pdf contains the pdf of the code. It uses the tfidf text vectorizer on the BBC news classification data set, which is obtained from: http://kaggle.com/competitions/learn-ai-bbc/.
-
+This notebook contains solution to an assignment on unsupervised learning using matrix factorization.
 The assignment instructions are:
 Part 1:
 
